@@ -7,7 +7,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)](https://tailwindcss.com/)
 [![Supabase](https://img.shields.io/badge/-Supabase-003B68?logo=supabase&logoColor=white&style=for-the-badge)](https://supabase.io/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)](https://www.postgresql.org/)
-[!Zustand](https://img.shields.io/badge/-Zustand-FFD43B?logo=react&logoColor=white&style=for-the-badge)
+![Zustand](https://img.shields.io/badge/-Zustand-FFD43B?logo=react&logoColor=white&style=for-the-badge)
 
 ## Introduction
 
